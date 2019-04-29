@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": "15"
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "11"
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": "9"
     },
     {
       "id": 4,
@@ -34,19 +34,61 @@
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": "3"
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": "1"
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": "2"
+    },
+    {
+      "name": "something here",
+      "image": "https://www.yourwdwstore.net/assets/images/6/60000/7000/400/67445-S1.JPG",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "name": "ds",
+      "image": "https://www.yourwdwstore.net/assets/images/6/60000/7000/400/67445-S1.JPG",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "name": "yes it does show name",
+      "image": "https://www.folkdeal.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/d/fd-ea10136-1.jpg",
+      "likes": "4",
+      "id": 24
+    },
+    {
+      "name": "yes it does show name",
+      "image": "https://www.yourwdwstore.net/assets/images/6/60000/7000/400/67445-S1.JPG",
+      "likes": "1",
+      "id": 25
+    },
+    {
+      "name": "Paul",
+      "image": "https://www.folkdeal.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/d/fd-ea10136-1.jpg",
+      "likes": "3",
+      "id": 26
+    },
+    {
+      "name": "yes it does show name",
+      "image": "https://cdn.shopify.com/s/files/1/0584/3841/products/vinyl-nickelodeon-rugrats-reptar-art-figure-by-kidrobot-1_300x.jpg?v=1529669915",
+      "likes": "2",
+      "id": 28
+    },
+    {
+      "name": "cool Truck!!",
+      "image": "https://www.kmart.com.au/wcsstore/Kmart/images/ncatalog/tf/2/42606512-1-tf.jpg",
+      "likes": "4",
+      "id": 29
     }
   ]
 }
